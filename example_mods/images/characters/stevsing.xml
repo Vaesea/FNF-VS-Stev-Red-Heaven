@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stevsing.png">
+<SubTexture name="stevsing idle0000" x="294" y="505" width="292" height="339" frameX="-220" frameY="-166" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing idle0001" x="1199" y="0" width="323" height="329" frameX="-221" frameY="-177" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing idle0002" x="493" y="1204" width="342" height="304" frameX="-223" frameY="-206" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing idle0003" x="1522" y="543" width="379" height="245" frameX="-227" frameY="-272" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing idle0004" x="1469" y="1511" width="413" height="140" frameX="-229" frameY="-381" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing idle0005" x="718" y="844" width="440" height="10" frameX="-233" frameY="-515" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing left0000" x="586" y="505" width="350" height="336" frameX="-162" frameY="-169" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing left0001" x="0" y="878" width="393" height="326" frameX="-119" frameY="-180" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing left0002" x="393" y="878" width="440" height="316" frameX="-72" frameY="-190" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing left0003" x="0" y="1204" width="493" height="307" frameX="-19" frameY="-199" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing left0004" x="835" y="1204" width="512" height="300" frameX="0" frameY="-206" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing right0000" x="833" y="878" width="356" height="314" frameX="-220" frameY="-192" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing right0001" x="1522" y="0" width="408" height="290" frameX="-220" frameY="-216" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing right0002" x="0" y="1511" width="456" height="271" frameX="-220" frameY="-236" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing right0003" x="456" y="1511" width="494" height="254" frameX="-220" frameY="-253" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing right0004" x="950" y="1511" width="519" height="243" frameX="-220" frameY="-264" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing up0000" x="0" y="505" width="294" height="373" frameX="-218" frameY="-132" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing up0001" x="900" y="0" width="299" height="420" frameX="-213" frameY="-85" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing up0002" x="601" y="0" width="299" height="455" frameX="-214" frameY="-50" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing up0003" x="301" y="0" width="300" height="487" frameX="-213" frameY="-18" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing up0004" x="0" y="0" width="301" height="505" frameX="-212" frameY="0" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing down0000" x="1522" y="290" width="333" height="253" frameX="-179" frameY="-253" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing down0001" x="1522" y="788" width="379" height="159" frameX="-133" frameY="-347" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing down0002" x="1469" y="1651" width="412" height="74" frameX="-100" frameY="-433" frameWidth="739" frameHeight="666" />
+<SubTexture name="stevsing down0003" x="294" y="844" width="424" height="11" frameX="-85" frameY="-498" frameWidth="739" frameHeight="666" />
+</TextureAtlas>
