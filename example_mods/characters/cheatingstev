@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-53,
+				-396
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				3,
+				-406
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-78,
+				-460
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-36,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-134,
+				-355
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"sarvente_floating": true,
+	"healthbar_colors_middle": [
+		0,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"healthbar_colors_bottom": [
+		0,
+		0,
+		0
+	],
+	"death_props": {
+		"endSfx": "gameOverEnd",
+		"bpm": 100,
+		"loopSfx": "gameOver",
+		"character": "bf-dead",
+		"startSfx": "fnf_loss_sfx"
+	},
+	"image": "characters/cheating-stev",
+	"trail_length": null,
+	"trail_delay": null,
+	"position": [
+		50,
+		6
+	],
+	"trail_diff": null,
+	"float_speed": null,
+	"trail_alpha": null,
+	"health_drain": true,
+	"healthicon": "die",
+	"shake_screen": true,
+	"orbit": false,
+	"drain_floor": 0.1,
+	"healthbar_count": null,
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		380
+	],
+	"float_magnitude": null,
+	"sing_duration": 6.1,
+	"scare_bf": false,
+	"scare_gf": false,
+	"scale": 1,
+	"flixel_trail": true
+}
