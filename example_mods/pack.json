@@ -1,0 +1,9 @@
+{
+	"name": "VS Stev Red Heaven",
+	"description": "the heavev",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 0, 0],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
