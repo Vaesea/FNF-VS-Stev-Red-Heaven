@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"2904802948",
+			"dad",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"cruel punishment",
+			"dad",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"freezing cold",
+			"dad",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"broken ice",
+			"dad",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "this insanity is actually inescapable",
+	"weekName": "Blev Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

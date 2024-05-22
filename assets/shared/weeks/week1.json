@@ -1,0 +1,59 @@
+{
+	"storyName": "the start of the absolute chaos",
+	"difficulties": "Normal, Erect, Pico",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hello",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"i can has diamonds",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cheater",
+			"die",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"beacon",
+			"die2",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "stev",
+	"hiddenUntilUnlocked": false
+}

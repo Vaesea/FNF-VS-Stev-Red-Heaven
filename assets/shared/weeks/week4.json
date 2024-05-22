@@ -1,0 +1,59 @@
+{
+	"storyName": "the main new stev guy. and some other dude idk",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"heaven",
+			"dad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"nether",
+			"dad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"destroyed paradise",
+			"dad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"crimson",
+			"dad",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Heavev Week"
+}
