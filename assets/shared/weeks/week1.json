@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "the start of the absolute chaos",
+	"difficulties": "Normal, Erect, Pico",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hello",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"i can has diamonds",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cheater",
+			"die",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"beacon",
+			"die2",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "stev",
+	"hiddenUntilUnlocked": false
 }
