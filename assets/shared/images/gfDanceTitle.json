@@ -2,9 +2,9 @@
 	"titlex":-150,
 	"titley":-100,
 	"startx":100,
-	"starty":576,
+	"starty":776,
 	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
+	"gfy":-100,
+	"backgroundSprite":"menuDesat",
 	"bpm":102
 }
