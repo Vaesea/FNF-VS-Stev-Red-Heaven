@@ -1,27 +1,12 @@
- __                 /                                  
-/ _   _ |_ |_ .  _                                     
-\__) (- |_ |_ | | )                                    
-                                                       
- __                                                    
-|_   _  _  _  |                                        
-|   |  (- (_| |( \/                                    
-                 /                                     
-                                                       
- _   _     _                                           
-(_) | )   (_|                                          
-                                                       
- __                                                    
-|_   _ .  _|  _        _  .  _  |_  |_       _  _  |_  
-|   |  | (_| (_| \/   | ) | (_) | ) |_   \/ (- (_| | ) 
-                 /          _/           /             
+RAP BATTLIN' LITERAL GODS ON A FRIDAY NIGHT YEAH
 
-HEY
-Thanks for downloadin Friday Night FUNKIN'
-If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
-You might be in DANGER!!! 
+If you downloaded this from anywhere other than https://github.com/EggsAndBakey/FNF-VS-Stev-Red-Heaven, you MIGHT have a various a malware the!!!
+This is a BETA BUILD, expect things to be broken
+IF YOU FIND ANY BUGS, REPORT THE BUGS IN THE ISSUES AND/OR MAKE A PULL REQUEST THAT FIXES THE BUG
+FANMADE CONTENT IS ALLOWED
 
-The Itch.io release is the only official source for the desktop (PC, Mac, Linux) versions of the game!
-As of right now, the game is FREE! If you paid for it, you got SCAMMED!
+The Github release is the only official source for the beta versions of the mod!
+This mod is FREE AND WILL ALWAYS BE FREE! If you paid for it, you got SCAMMED!
 
 Now that that's out of the way....
 THANKS FOR DOWNLOADIN. 
@@ -30,63 +15,29 @@ THANKS FOR DOWNLOADIN.
     PERMISSIONS XDDDD
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game.
+Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the mod.
 Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO.
 
-If you do make any sort of video, it would be a bro move if you linked the game and spread the word
+If you do make any sort of video, it would be a bro move if you linked the mod and credited the people in the credits
 
-Play On Newgrounds - https://www.newgrounds.com/portal/view/770371
-Support on Itch.io - https://ninja-muffin24.itch.io/funkin
-
-If not no biggie we don't fully hate you only kinda no biggie.
+If not no biggie i don't fully hate you only kinda no biggie.
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
     INFO AND LINKS
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-If you wanna dig around, the game is fully open source on Github
-https://github.com/ninjamuffin99/Funkin
+If you wanna dig around source code, https://github.com/EggsAndBakey/FNF-VS-Stev-Red-Heaven
 
-It's made in Haxe / HaxeFlixel
+This is a mod of Friday Night Funkin', a game made by the Funkin' Crew https://itch.io/queue/c/1525920/friday-night-funkin?game_id=792778 (i have no idea why the link is like this)
 
-MUSIC IS ON SPOTIFY AND BANDCAMP AND EVERYWHERE ELSE PROB TOO
-https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-1
+This uses Psych Engine 0.7.3, an engine mainly made by Shadow Mario. https://gamebanana.com/mods/309789
 
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
-    FINAL WORDS / CREDITS
+    FINAL WORDS
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-
 
-Friday Night Funkin' is made by ninjamuffin99 (programmer), PhantomArcade (animator), kawaisprite (musician), and evilsk8r (artist)
-
-https://twitter.com/ninja_muffin99
-https://twitter.com/phantomarcade3k
-https://twitter.com/kawaisprite
-https://twitter.com/evilsk8r
-
-Pico is created by Tom Fulp
-Skid and Pump are created by SrPelo
-BassetFilms did music for lemon monster songs
-
-
-Final important thing, this is made with the support and love to and from Newgrounds.com.
-Go to newgrounds, we love newgrounds. newgrounds good. How many times do I gotta damn say it. Newgrounds newgrounds newgrounds newgrounds
-I love Tom Fulp.
-
-- Cameron ♪(´▽｀)
-
-##################################################################################
-                                                                                  
- _   _   _____   _      _    ____   ____     ___    _   _   _   _   ____    ____  
-| \ | | | ____| | |    | |  / ___| |  _ \   / _ \  | | | | | \ | | |  _ \  / ___| 
-|  \| | |  _|   | | /\ | | | |  _  | |_) | | | | | | | | | |  \| | | | | | \___ \ 
-| |\  | | |___   \ V  V /  | |_| | |  _ <  | |_| | | |_| | | |\  | | |_| |  ___) |
-|_| \_| |_____|   \_/\_/    \____| |_| \_\  \___/   \___/  |_| \_| |____/  |____/ 
- _       _  _     ___    ___       __              _       _  _       _        _  
-|_ |  | |_ |_) \_/ | |_|  |  |\ | /__     |_      |_ |  | |_ |_) \_/ / \ |\ | |_  
-|_  \/  |_ | \  |  | | | _|_ | \| \_| o   |_)\/   |_  \/  |_ | \  |  \_/ | \| |_ o
-                                      /      /                                    
-                                                                                  
+i love big black men
 ##################################################################################
 i stole this from stamper.
