@@ -40,4 +40,3 @@ This uses Psych Engine 0.7.3, an engine mainly made by Shadow Mario. https://gam
 
 i love big black men
 ##################################################################################
-i stole this from stamper.
