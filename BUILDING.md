@@ -1,9 +1,12 @@
-# Psych Engine Build Instructions
+# VS Stev Red Heaven Build Instructions
 
 * [Dependencies](#dependencies)
 * [Building](#building)
 
 ---
+
+### Note
+These are the exact same build instructions as Psych Engine. As long as you can build Psych Engine 0.7.3, you can build VS Stev Red Heaven. The source code is the exact same.
 
 ### Dependencies
 
@@ -92,7 +95,7 @@ where `<platform>` gets replaced with `windows`, `linux`, or `mac`
 ### "It's taking a while, should I be worried?"
 
 No, that is normal, when you compile flixel games for the first time, it usually takes around 5 to 10 minutes,
-it really depends on how powerful your hrdware is
+it really depends on how powerful your hardware is
 
 ### "I had an error saying that 'hxCodec' could not be found!"
 

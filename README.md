@@ -1,8 +1,7 @@
 # Friday Night Funkin' - VS Stev Red Heaven
 This is a fan-mod of VS Stev.
-Engine is Psych Engine. No modifications to the source code has been made at this time.
+Engine is Psych Engine, however, only the Project.xml has been modified at this time.
 If you want to contribute, you can.
-Fanmade songs for characters like Blev, Arratev and Heavev will almost always get accepted.
 
 ## Installation:
 
@@ -12,7 +11,7 @@ Refer to [the Build Instructions](./BUILDING.md)
 
 if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
 
-inside `Project.xml`, you will find several variables to customize Psych Engine to your liking
+inside `Project.xml`, you will find several variables to customize VS Stev Red Heaven to your liking
 
 to start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
 
