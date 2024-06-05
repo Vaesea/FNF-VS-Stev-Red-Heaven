@@ -92,7 +92,7 @@ class TitleState extends MusicBeatState
 		#if CHECK_FOR_UPDATES
 		if(ClientPrefs.data.checkForUpdates && !closedState) {
 			trace('checking for update');
-			var http = new haxe.Http("https://raw.githubusercontent.com/ShadowMario/FNF-PsychEngine/main/gitVersion.txt");
+			var http = new haxe.Http("https://raw.githubusercontent.com/EggsAndBakey/FNF-VS-Stev-Red-Heaven/main/gitVersion.txt");
 
 			http.onData = function (data:String)
 			{
@@ -549,14 +549,14 @@ class TitleState extends MusicBeatState
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Psych Engine by'], 40);
+					createCoolText(['VS Stev Red Heaven by'], 40);
 					#else
-					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
+					createCoolText(['EggsAndBakey']);
 					#end
 				case 4:
 					#if PSYCH_WATERMARKS
-					addMoreText('Shadow Mario', 40);
-					addMoreText('Riveren', 40);
+					addMoreText('a', 40);
+					addMoreText('b', 40);
 					#else
 					addMoreText('present');
 					#end
@@ -566,7 +566,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Not associated', 'with'], -40);
 					#else
-					createCoolText(['In association', 'with'], -40);
+					createCoolText(['Not associated', 'with'], -40);
 					#end
 				case 8:
 					addMoreText('newgrounds', -40);
@@ -581,11 +581,11 @@ class TitleState extends MusicBeatState
 				case 13:
 					deleteCoolText();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('VS Stev');
 				case 15:
-					addMoreText('Night');
+					addMoreText('Red');
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Heaven'); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();
