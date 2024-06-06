@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redheavenstev",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "what the fuck"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redheavenstev",
+			"boxState": "angry",
+			"expression": "ascend",
+			"text": "why did you break into MY HOUSE??!??!!????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i said rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "please"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redheavenstev",
+			"boxState": "normal",
+			"expression": "down",
+			"text": "i dont even know who you are"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Rap battle."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "redheavenstev",
+			"boxState": "angry",
+			"expression": "woke",
+			"text": "OK FINE bruh"
+		}
+	]
+}
