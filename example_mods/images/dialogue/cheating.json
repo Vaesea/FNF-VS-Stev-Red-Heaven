@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-620,
+		-290
+	],
+	"scale": 0.85,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "up",
+			"anim": "ascend",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "right",
+			"anim": "right",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "left",
+			"anim": "woke",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "down",
+			"anim": "down",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "cheating_Dialogue"
+}
