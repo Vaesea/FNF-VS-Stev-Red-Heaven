@@ -1,0 +1,76 @@
+{
+	"position": [
+		-620,
+		-200
+	],
+	"dialogue_pos": "left",
+	"scale": 0.9,
+	"image": "redheavenstev_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "idle",
+			"idle_name": "idle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ascend",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "up",
+			"idle_name": "up"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "right",
+			"idle_name": "right"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "woke",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "left",
+			"idle_name": "left"
+		},
+		{
+			"loop_name": "down",
+			"idle_offsets": [
+				-40,
+				60
+			],
+			"idle_name": "down",
+			"anim": "down",
+			"loop_offsets": [
+				-40,
+				60
+			]
+		}
+	]
+}

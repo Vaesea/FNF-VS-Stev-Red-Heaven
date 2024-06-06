@@ -1,0 +1,76 @@
+{
+	"position": [
+		130,
+		160
+	],
+	"dialogue_pos": "left",
+	"scale": 1.2,
+	"image": "stev_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "idle",
+			"idle_name": "idle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ascend",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "up",
+			"idle_name": "up"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "right",
+			"idle_name": "right"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "woke",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "left",
+			"idle_name": "left"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "down",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "down",
+			"idle_name": "down"
+		}
+	]
+}
