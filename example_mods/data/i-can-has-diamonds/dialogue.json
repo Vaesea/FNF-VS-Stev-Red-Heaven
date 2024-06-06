@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redheavenstev",
+			"boxState": "angry",
+			"expression": "woke",
+			"text": "what HOWWWW!!!!!11111!!!!111????????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ur bad at this lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redheavenstev",
+			"boxState": "normal",
+			"expression": "ascend",
+			"text": "you messed up real bad lil bro"
+		}
+	]
+}

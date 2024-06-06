@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh fuck it's song 3 time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I'M"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "normal",
+			"expression": "woke",
+			"text": "GOING"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "TO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "normal",
+			"expression": "ascend",
+			"text": "TOUCH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "normal",
+			"expression": "right",
+			"text": "YOU."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "kill yourself"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cheating",
+			"boxState": "angry",
+			"expression": "right",
+			"text": "im going to call you a racial slur"
+		}
+	]
+}
