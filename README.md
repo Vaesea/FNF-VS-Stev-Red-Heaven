@@ -6,7 +6,9 @@ If you want to contribute, you can do that by reporting issues in the issues tab
 ## Installing:
 ### THIS IS FOR THE FUTURE
 
-You can install this via Gamebanana (INSERT GAMEBANANA LINK HERE)
+You can install this mod via these websites:
+
+GameBanana (https://gamebanana.com/mods/519192)
 
 GameJolt (https://gamejolt.com/games/redheaven/895191)
 
