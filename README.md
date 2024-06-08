@@ -20,9 +20,10 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## Credits:
 * EggsAndBakey - Owner of VS Stev Red Heaven
 * https://www.youtube.com/@YaMarathoniansoldchannel75 - Creator of Dragon Quest, a song planned to be in a joke section for when this mod moves to Denpa Engine (unless i just do that one vsde thing or code in freeplay sections to the actual source code)
-* Convival - Upcoming "Ataraxy" Blev song (As far as I know, he hasn't uploaded it yet)
-* GregoryDavid1014 - (Possibly) Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
+* Convival - Upcoming Stev Songs, the upcoming extra Grev Week, Upcoming "Melted" Blev Song
+* GregoryDavid1014 - Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
 * SonicTheFunker - Miss Limit Script that's used in Beacon (https://gamebanana.com/tools/11843)
+* Alice (sillycodergirl), Piggyfriend1792, legole0 - Credits Script that's used in all songs (https://gamebanana.com/tools/11519)
 
 ### Special Thanks:
 * Your Average FNF Pro - Owner of VS Stev
