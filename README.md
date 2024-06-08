@@ -3,7 +3,18 @@ This is a fan-mod of VS Stev.
 Engine is Psych Engine, however, only the Project.xml has been modified at this time.
 If you want to contribute, you can.
 
-## Installation:
+## Installing:
+### THIS IS FOR THE FUTURE
+
+You can install this via Gamebanana (INSERT GAMEBANANA LINK HERE)
+
+GameJolt (https://gamejolt.com/games/redheaven/895191)
+
+Github (https://github.com/EggsAndBakey/FNF-VS-Stev-Red-Heaven/tags)
+
+Itch.io (INSERT ITCH.IO LINK HERE)
+
+## Compiling The Source Code:
 
 Refer to [the Build Instructions](./BUILDING.md)
 
