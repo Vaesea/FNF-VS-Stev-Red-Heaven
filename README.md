@@ -1,20 +1,9 @@
 # Friday Night Funkin' - VS Stev Red Heaven
 This is a fan-mod of VS Stev.
 Engine is Psych Engine, however, only the Project.xml has been modified at this time.
-If you want to contribute, you can do that by reporting issues in the issues tab and pull requesting in the pull requests tab. To pull request you need to create a fork of the repository, make sure to choose the most up-to-date branch since the main branch is sometimes outdated.
+If you want to contribute, you can.
 
-## Installing:
-### THIS IS FOR THE FUTURE
-
-You can install this via Gamebanana (INSERT GAMEBANANA LINK HERE)
-
-GameJolt (https://gamejolt.com/games/redheaven/895191)
-
-Github (https://github.com/EggsAndBakey/FNF-VS-Stev-Red-Heaven/tags)
-
-Itch.io (INSERT ITCH.IO LINK HERE)
-
-## Compiling The Source Code:
+## Installation:
 
 Refer to [the Build Instructions](./BUILDING.md)
 
@@ -31,16 +20,16 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 ## Credits:
 * EggsAndBakey - Owner of VS Stev Red Heaven
 * https://www.youtube.com/@YaMarathoniansoldchannel75 - Creator of Dragon Quest, a song planned to be in a joke section for when this mod moves to Denpa Engine (unless i just do that one vsde thing or code in freeplay sections to the actual source code)
-* Convival - Upcoming Stev Songs, the upcoming extra Grev Week, Upcoming "Melted" Blev Song
-* GregoryDavid1014 - Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
-* SonicTheFunker - Miss Limit Script that's used in Beacon (https://gamebanana.com/tools/11843)
-* Alice (sillycodergirl), Piggyfriend1792, legole0 - Credits Script that's used in all songs (https://gamebanana.com/tools/11519)
-
+* Convival - Upcoming "Ataraxy" Blev song (As far as I know, he hasn't uploaded it yet)
+* GregoryDavid1014 - (Possibly) Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
+* BambiGaming2022 / doomgaming2024 - Pull Request for Friday Night Maker stuff that will be added in Demo 1.5 for songs with a Joke Stev character
+  
 ### Special Thanks:
 * Your Average FNF Pro - Owner of VS Stev
 * Other VS Stev Devs - Developers of VS Stev. No remixes of non-YAFNFP songs are planned at this time.
 * Depth - Beacon and Heaven both reference Stevforsaken.
 * Peirce Animations - Beacon and Heaven both reference KillAura
+* Friday Night Maker - Friday Night Maker stuff that will be added in Demo 1.5 for songs with a Joke Stev character (https://kingamescreator.itch.io/friday-night-maker)
 
 ## Psych Credits:
 * Shadow Mario - Programmer
