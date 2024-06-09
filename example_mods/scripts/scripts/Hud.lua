@@ -1,4 +1,4 @@
---script by 
+--script by yumiidev
 --dont steal kids!
 --thanks betopia for font
 
