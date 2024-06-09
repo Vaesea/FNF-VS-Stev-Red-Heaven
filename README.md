@@ -37,12 +37,16 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * GregoryDavid1014 - Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
 * SonicTheFunker - Miss Limit Script that's used in Beacon (https://gamebanana.com/tools/11843)
 * Alice (sillycodergirl), Piggyfriend1792, legole0 - Credits Script that's used in all songs (https://gamebanana.com/tools/11519)
+* BambiGaming2022 - Pull Request that added the Friday Night Maker hud for the joke stev song (the song is not in the mod yet)
+* Yumiidev - Hud.lua
+* _Boxed, Shokora - WinningIcons.lua
 
 ### Special Thanks:
 * Your Average FNF Pro - Owner of VS Stev
 * Other VS Stev Devs - Developers of VS Stev. No remixes of non-YAFNFP songs are planned at this time.
 * Depth - Beacon and Heaven both reference Stevforsaken.
 * Peirce Animations - Beacon and Heaven both reference KillAura
+* Friday Night Maker - The Friday Night Maker hud in the joke stev song (the song is not in the mod yet)
 
 ## Psych Credits:
 * Shadow Mario - Programmer
