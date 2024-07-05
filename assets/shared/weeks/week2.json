@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"2904802948",
+			"blev",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "blev",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "not a full week yet",
+	"weekName": "Blev",
+	"freeplayColor": [
+		0,
+		0,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

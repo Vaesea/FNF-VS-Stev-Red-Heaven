@@ -1,8 +1,8 @@
 @echo off
 color 0a
 cd ..
-echo BUILDING GAME
+echo BUILDING VS STEV RED HEAVEN WINDOWS x64 DEBUG
 haxelib run lime test windows -debug
 echo.
-echo done.
+echo Done.
 pause

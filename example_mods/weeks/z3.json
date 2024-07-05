@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"bonus",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"plains",
+			"stevreal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"battle",
+			"bambi",
+			[
+				37,
+				191,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

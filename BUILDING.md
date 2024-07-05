@@ -38,7 +38,7 @@ vs_Community.exe --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add M
 this will use `curl`, which is a tool for downloading certain files through the command-line,
 to Download the binary for Microsoft Visual Studio with the specific package you need for compiling on Windows.
 
-(you can easily skip this process by doing to the `setup` folder located in the root directory of this repository,
+(you can easily skip this process by going to the `setup` folder located in the root directory of this repository,
  and running `setup-msvc-win.bat`)
 
 ---
