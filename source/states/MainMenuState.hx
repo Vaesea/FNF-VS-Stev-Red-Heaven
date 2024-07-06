@@ -9,7 +9,7 @@ import options.OptionsState;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.1.5'; // This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.1.2'; // This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -159,17 +159,6 @@ class MainMenuState extends MusicBeatState
 								MusicBeatState.switchState(new StoryMenuState());
 							case 'freeplay':
 								MusicBeatState.switchState(new FreeplayState());
-
-							#if MODS_ALLOWED
-							case 'mods':
-								MusicBeatState.switchState(new ModsMenuState());
-							#end
-
-							#if ACHIEVEMENTS_ALLOWED
-							case 'awards':
-								MusicBeatState.switchState(new AchievementsMenuState());
-							#end
-
 							case 'credits':
 								MusicBeatState.switchState(new CreditsState());
 							case 'options':

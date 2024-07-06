@@ -39,8 +39,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-            ['VS Stev Red Heaven Demo 1 Team'],
+            ['VS Stev Red Heaven Demo 1.5 Devs'],
             ['EggsAndBakey',        'eggsandbakey',     'Owner of VS Stev Red Heaven',                               'www.youtube.com/@EggsAndBakeyGJ',     'FFFFFF'],
+            ['doomgaming2024',      '',                 'Added the Joke Stev Songs HUD',                             'https://github.com/BambiGaming2022',  'FFFFFF'],
             [''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer and Head of Psych Engine',					 'https://ko-fi.com/shadowmario',		'444444'],
