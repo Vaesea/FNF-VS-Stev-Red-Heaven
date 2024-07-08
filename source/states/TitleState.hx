@@ -549,16 +549,16 @@ class TitleState extends MusicBeatState
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
 					#if PSYCH_WATERMARKS
-					createCoolText(['VS Stev Red Heaven by'], 40);
+					createCoolText(['VS Stev Red Heaven'], 40);
 					#else
 					createCoolText(['EggsAndBakey']);
 					#end
 				case 4:
 					#if PSYCH_WATERMARKS
-					addMoreText('a', 40);
-					addMoreText('b', 40);
+					addMoreText('The Mod', 40);
+					addMoreText('Ever', 40);
 					#else
-					addMoreText('present');
+					addMoreText('yea');
 					#end
 				case 5:
 					deleteCoolText();
