@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jokestev.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="lol0000" x="0" y="0" width="236" height="268" frameX="-19" frameY="-17" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>
