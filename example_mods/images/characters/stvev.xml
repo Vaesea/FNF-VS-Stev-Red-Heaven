@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stvev.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="451" height="581" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="down0000" x="902" y="0" width="451" height="544" frameX="-74" frameY="-133" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="down0001" x="815" y="581" width="451" height="506" frameX="-74" frameY="-171" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="down0002" x="901" y="1162" width="449" height="319" frameX="-74" frameY="-358" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="hey0000" x="451" y="0" width="451" height="581" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="left0000" x="409" y="581" width="406" height="581" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="left0001" x="1353" y="0" width="377" height="581" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="left0002" x="1730" y="581" width="333" height="581" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="right0000" x="0" y="581" width="409" height="581" frameX="-116" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="right0001" x="1353" y="581" width="372" height="581" frameX="-153" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="right0002" x="1730" y="0" width="365" height="581" frameX="-160" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="up0000" x="0" y="1162" width="450" height="479" frameX="-75" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="up0001" x="450" y="1162" width="451" height="408" frameX="-74" frameY="-96" frameWidth="600" frameHeight="774"/>
+	<SubTexture name="up0002" x="1730" y="1162" width="351" height="260" frameX="-127" frameY="-96" frameWidth="600" frameHeight="774"/>
+</TextureAtlas>
